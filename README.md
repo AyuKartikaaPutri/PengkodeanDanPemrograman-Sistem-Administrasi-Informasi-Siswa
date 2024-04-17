@@ -1,6 +1,7 @@
 # WebCRUD
 
 SISTEM ADMINISTRASI ADMINISTRASI INFORMASI SISWA
+
 Referensi github: https://github.com/farhanadeata/WebCRUD
 
 TAMPILAN WEBSITE
@@ -13,3 +14,4 @@ TAMPILAN WEBSITE
 ![alt text](https://github.com/AyuKartikaaPutri/PengkodeanDanPemrograman-Sistem-Administrasi-Informasi-Siswa/blob/main/img/Screenshot%20(199).png?raw=true)
 
 ERD (Entity Relationship Diagram)
+![alt text](https://github.com/AyuKartikaaPutri/PengkodeanDanPemrograman-Sistem-Administrasi-Informasi-Siswa/blob/main/erd/image%20(3).png?raw=true)
